@@ -4,5 +4,5 @@ int main(){
 	short a,b;
 	a=254;
 	b=343;
-	cout<<"a + b = "<<a+b;
+	cout<<a<<"+"<<b<<a+b;
 }
