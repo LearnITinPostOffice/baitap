@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	string s="Dang";
-	cout<<"Hello "<<s;
+	char c[16]="nguyen hai dang";
+	cout<<"Hello "<<c;
 }
